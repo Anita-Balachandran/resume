@@ -266,7 +266,7 @@ function Home() {
             <BrainIcon src={brainIcon} alt="Brain Icon" />
             <Title>Anita Balachandran</Title>
             <Subtitle>
-              Licensed Clinical Psychologist | Mental Health Advocate | Wellness Expert
+              Relationship Counselor | Counselling Psychologist 
             </Subtitle>
             <WelcomeText>
               Welcome to a space dedicated to your mental well-being. Here, we explore the 
